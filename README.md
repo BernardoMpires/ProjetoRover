@@ -1,4 +1,3 @@
-# Aula85-mars-rover
-Alunos aprendem a utilizar o canvas e eventos keypress com HTML e Javascript
+#Projeto Mars Rover
 
-https://profjana.github.io/Aula85-mars-rover/
+https://bernardompires.github.io/ProjetoRover/
